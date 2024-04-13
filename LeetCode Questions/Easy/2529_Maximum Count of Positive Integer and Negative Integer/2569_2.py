@@ -1,3 +1,4 @@
+# submitted at Apr 13, 2024 17:34
 class Solution:
   # O(log(n))
   def posBinary(self, array: list[int]) -> int:
