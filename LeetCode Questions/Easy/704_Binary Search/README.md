@@ -36,6 +36,20 @@ Constraints:
 - Binary Search
 
 ## My Thinking
-題目明確標示撰寫一演算法符合`O(log n)`的時間複雜度，因此使用`Binary Search 二分搜尋法`
+題目明確標示撰寫一演算法符合`O(log n)`的時間複雜度
 
-建立頭尾指針
+且題目敘述中也說明此陣列是經過排序
+
+因此使用`Binary Search 二分搜尋法`
+
+***
+
+建立頭尾指針 `i,k`
+
+頭指針位置為陣列開頭 `index=0`
+
+尾指針位置為陣列最後 `index=len(Array)-1`
+
+接著按照2分搜尋法的原則，每次搜尋陣列的中間位置 `mid=(i+k)//2`
+
+若此次的 `Array[mid]` < `target`，頭指針 `i` 的位置需要更新到 `mid+1` 的位置
