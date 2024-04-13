@@ -2,9 +2,7 @@
 
 Given an array of integers `nums` which is sorted in ascending order, and an integer `target`, write a function to search `target` in `nums`. 
 
-If `target` exists, then return its index. Otherwise, return `-1`.
-
-You must write an algorithm with `O(log n)` runtime complexity.
+If `target` exists, then return its index. Otherwise, return `-1`.<br>You must write an algorithm with `O(log n)` runtime complexity.
 
 
 
@@ -20,8 +18,8 @@ Example 2:
 
 ```
 Input: nums = [-1,0,3,5,9,12], target = 2
-> Output: -1
-> Explanation: 2 does not exist in nums so return -1
+Output: -1
+Explanation: 2 does not exist in nums so return -1
 ```
 
 Constraints:
@@ -36,14 +34,14 @@ Constraints:
 - Binary Search
 
 ## My Thinking
-題目明確標示撰寫一演算法符合`O(log n)`的時間複雜度
+題目明確標示撰寫一演算法符合`O(log n)` 的時間複雜度
 
-且題目敘述中也說明此陣列是經過排序<br>
-因此使用`Binary Search 二分搜尋法`
+且題目敘述中也說明**此陣列是經過排序**<br>
+因此使用 `Binary Search 二分搜尋法`
 
-***
+### 704_1.py寫法解說
 
-建立頭尾指針 `i,k`
+建立頭尾指針 `i, k`
 
 頭指針位置為陣列開頭 `index=0`<br>
 尾指針位置為陣列最後 `index=len(Array)-1`
