@@ -45,6 +45,7 @@ class Solution:
     return len(array) - mid
 
   def negBinary(self, array: list[int]) -> int: 
+    '''判斷<0的數字有幾個的2元搜尋法'''
     left_p = 0
     right_p = len(array) - 1
     
@@ -91,5 +92,5 @@ class Solution:
     return 0
     
   def maximumCount(self, nums: list[int]) -> int:
-    # 比較找正整數的2元以及找最小正整數的2元哪個數量較多
+    '''比較找正整數的2元搜尋法以及找最小正整數的2元搜尋法哪個數量較多'''
     return max(self.posBinary(nums), self.negBinary(nums))
