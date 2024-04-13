@@ -26,8 +26,7 @@ Input: nums = [-1,0,3,5,9,12], target = 2
 
 Constraints:
 
-- `1 <= nums.length <= 10^4
-`
+- `1 <= nums.length <= 10^4`
 - `-10^4 < nums[i], target < 10^4`
 - All the integers in `nums` are **unique**.
 - `nums` is sorted in ascending order.
@@ -38,3 +37,5 @@ Constraints:
 
 ## My Thinking
 題目明確標示撰寫一演算法符合`O(log n)`的時間複雜度，因此使用`Binary Search 二分搜尋法`
+
+建立頭尾指針
