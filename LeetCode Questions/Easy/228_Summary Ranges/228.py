@@ -1,3 +1,4 @@
+# submitted at Apr 15, 2024 17:22
 class Solution:
   def summaryRanges(self, nums: list[int]) -> list[str]:
     a_point = 0
