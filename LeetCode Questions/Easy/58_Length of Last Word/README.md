@@ -33,6 +33,9 @@ Constraints:
 - `s` consists of only English letters and spaces `' '`.
 - There will be at least one word in `s`.
 
+## Topic
+- String
+
 ## My Thinking
 
 題目已經確保`字串s`一定會`有一個英文單字`，且空格一定是 `' '` 組成
