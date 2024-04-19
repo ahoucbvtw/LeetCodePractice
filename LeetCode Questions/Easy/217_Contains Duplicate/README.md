@@ -32,7 +32,11 @@ Constraints:
 ## My Thinking
 題目要找陣列中 `至少出現2次 (>=2)`，若有則輸出 `True`，否則輸出 `False`
 
-我使用 `hash table` 去紀錄出現的值，若沒出現則紀錄<br><br>假如相同的值已經出現 `i in table` 則直接跳脫迴圈不必全部找完輸出 `True`<br><br>若陣列中的值全部遍歷完畢都沒發現 `至少出現2次 (>=2)` 的值則輸出 `False`
+我使用 `hash table` 去紀錄出現的值，若沒出現則紀錄
+
+假如相同的值已經出現(`i in table`)，則直接跳脫迴圈不必全部找完輸出 `True`
+
+若陣列中的值全部遍歷完畢都沒發現 `至少出現2次 (>=2)` 的值則輸出 `False`
 
 ### Complexity
 Time complexity: O(n)
