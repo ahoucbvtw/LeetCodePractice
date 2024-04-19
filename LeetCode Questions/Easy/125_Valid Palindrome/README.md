@@ -43,3 +43,10 @@ Constraints:
 題目要求尋找給定的字串中是否為 `英數字(Alphanumeric)` 的 `palindrome`，按照定義因此需要建立2個指標<br><br>**一個指標是從頭開始遍歷字串，另一個指標是從尾部開始遍歷字串**
 
 <br>當2個指標位置中有不一樣，表示此`字串 ≠ palindrome`，相反則 `字串 = palindrome`
+
+### Complexity
+Time complexity: O(n)
+> 使用 `Two Pointers` 進行頭尾比對時是使用for迴圈一個一個對新 `s1` 字串進行比對
+
+Space complexity: O(n)
+> 因為我在 `125.py` 建立 `s1` 來儲存只有`英數字的字串`，並且是使用for迴圈一個一個檢查
