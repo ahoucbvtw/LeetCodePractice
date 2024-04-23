@@ -17,6 +17,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 217 | [Contains Duplicate](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/217_Contains%20Duplicate) | Easy | Array<br>Hash Table<br>Sorting |
 | 228 | [Summary Ranges](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/228_Summary%20Ranges) | Easy | Array |
 | 268 | [Missing Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/268_Missing%20Number) | Easy | Array<br>Hash Table<br>Math<br>Binary Search<br>Bit Manipulation<br>Sorting |
+| 383 | [Ransom Note](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/383_Ransom%20Note) | Easy | Hash Table<br>String<br>Counting |
 | 392 | [Is Subsequence](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/392_Is%20Subsequence) | Easy | Two Pointers<br>String<br>Dynamic Programming |
 | 704 | [Binary Search](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/704_Binary%20Search) | Easy | Array<br>Binary Search |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/1351_Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) | Easy | Array<br>Binary Search<br>Matrix |
