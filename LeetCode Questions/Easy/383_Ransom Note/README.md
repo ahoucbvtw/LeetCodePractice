@@ -24,7 +24,7 @@ Output: true
 Constraints:
 
 - `1 <= ransomNote.lengmagazineth, magazine.length <= 10^5`
-- `ransomNote` and `` consist of lowercase English letters.
+- `ransomNote` and `magazine` consist of lowercase English letters.
 
 
 ## Topic
@@ -42,4 +42,5 @@ Time complexity: O(mn)
 > 因為使用2個不同長度的 `for迴圈` 去遍歷以及製作 `hashtable` 和 `ransomNote`，因此為 **O(mn)**
 
 Space complexity: O(n)
-> 雖然在與 `Hash Table` 比對的時候使用 `hashTable[i]` 判斷是否不在裡面是 **O(1)**，但是在這之前因為使用 `for迴圈` 去製作 `Hash Table` ，因此為 **O(n)**
+> 雖然在與 `Hash Table` 比對的時候使用 `hashTable[i]` 判斷是否不在裡面是 **O(1)**
+> 但是在這之前因為使用 `for迴圈` 去製作 `Hash Table` ，因此為 **O(n)**

@@ -54,4 +54,5 @@ Time complexity: O(n)
 > 因為使用 `for迴圈` 去遍歷 `nums` 和 `[0, n]` 間的數字，因此為 **O(n)**
 
 Space complexity: O(n)
-> 雖然在與 `Hash Table` 比對的時候使用 `hashTable[i]` 判斷是否不在裡面是 **O(1)**，但是在這之前因為使用 `for迴圈` 去製作 `Hash Table` ，因此為 **O(n)**
+> 雖然在與 `Hash Table` 比對的時候使用 `hashTable[i]` 判斷是否不在裡面是 **O(1)**
+> 但是在這之前因為使用 `for迴圈` 去製作 `Hash Table` ，因此為 **O(n)**
