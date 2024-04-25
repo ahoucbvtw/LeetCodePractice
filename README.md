@@ -15,6 +15,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 125 | [Valid Palindrome](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/125_Valid%20Palindrome) | Easy | Two Pointers<br>String |
 | 189 | [Rotate Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/189_Rotate%20Array) | Medium | Array<br>Math<br>Two Pointers |
 | 202 | [Happy Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/202_Happy%20Number) | Easy | Hash Table<br>Math<br>Two Pointers |
+| 205 | [Isomorphic Strings](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/205_Isomorphic%20Strings) | Easy | Hash Table<br>String |
 | 217 | [Contains Duplicate](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/217_Contains%20Duplicate) | Easy | Array<br>Hash Table<br>Sorting |
 | 228 | [Summary Ranges](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/228_Summary%20Ranges) | Easy | Array |
 | 268 | [Missing Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/268_Missing%20Number) | Easy | Array<br>Hash Table<br>Math<br>Binary Search<br>Bit Manipulation<br>Sorting |
