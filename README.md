@@ -18,7 +18,9 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 205 | [Isomorphic Strings](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/205_Isomorphic%20Strings) | Easy | Hash Table<br>String |
 | 217 | [Contains Duplicate](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/217_Contains%20Duplicate) | Easy | Array<br>Hash Table<br>Sorting |
 | 228 | [Summary Ranges](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/228_Summary%20Ranges) | Easy | Array |
+| 242 | [Valid Anagram](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/242_Valid%20Anagram) | Easy | Hash Table<br>String<br>Sorting |
 | 268 | [Missing Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/268_Missing%20Number) | Easy | Array<br>Hash Table<br>Math<br>Binary Search<br>Bit Manipulation<br>Sorting |
+| 290 | [Word Pattern](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/290_Word%20Pattern) | Easy | Hash Table<br>String |
 | 383 | [Ransom Note](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/383_Ransom%20Note) | Easy | Hash Table<br>String<br>Counting |
 | 392 | [Is Subsequence](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/392_Is%20Subsequence) | Easy | Two Pointers<br>String<br>Dynamic Programming |
 | 704 | [Binary Search](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/704_Binary%20Search) | Easy | Array<br>Binary Search |
