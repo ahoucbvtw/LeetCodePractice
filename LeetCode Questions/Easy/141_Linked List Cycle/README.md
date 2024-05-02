@@ -60,7 +60,7 @@ Follow up: Can you solve it using `O(1)` (i.e. constant) memory?
 
 ### Complexity
 Time complexity: O(n)
-> 因此使用 `Fast-slow Pointers` 方法搜尋是否有此 `Linked List` 有循環，若最壞的情況是快指針及慢指針都循環了2-3次才碰面，代表跑了 `2n or 3n`，但是在計算 `Time complexity` 時常數項可以忽略，因此為 **O(n)**
+> 使用 `Fast-slow Pointers` 方法搜尋是否有此 `Linked List` 有循環，若最壞的情況是快指針及慢指針都循環了2-3次才碰面，代表跑了 `2n or 3n`，但是在計算 `Time complexity` 時常數項可以忽略，因此為 **O(n)**
 
 Space complexity: O(1)
 > 因為此題都是明確判斷及指定節點位置 `(head = head.next, fast = fast.next.next)` ，因此為 **O(1)**
