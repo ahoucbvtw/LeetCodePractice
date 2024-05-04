@@ -42,7 +42,7 @@ Constraints:
 
 > 詳細解說影片: **By NeetCode**
 > 
-> [![Jump Game II - Greedy - Leetcode 45](https://i.ytimg.com/vi/dJ7sWiOoK7g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcX31Sly6WL8ezfNADGDG7zLYtnA)](https://www.youtube.com/watch?v=dJ7sWiOoK7g&t=640s)
+> [![Jump Game II - Greedy - Leetcode 45](https://i.ytimg.com/vi/dJ7sWiOoK7g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcX31Sly6WL8ezfNADGDG7zLYtnA)](https://www.youtube.com/watch?v=dJ7sWiOoK7g)
 
 
 ### Complexity
