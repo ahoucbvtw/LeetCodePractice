@@ -4,7 +4,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 ---
 
 | # | Title | Difficulty | Tags |
-| --- | :---: | --- | :---: |
+| :---: | :---: | :---: | :---: |
 | 12 | [Integer to Roman](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/12_Integer%20to%20Roman) | Medium | Math<br>String<br>Hash Table |
 | 13 | [Roman to Integer](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/13_Roman%20to%20Integer) | Easy | Math<br>String<br>Hash Table |
 | 14 | [Longest Common Prefix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/14_Longest%20Common%20Prefix) | Easy | String<br>Trie |
