@@ -14,6 +14,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 55 | [Jump Game](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/55_Jump%20Game) | Medium | Array<br>Greedy<br>Dynamic Programming |
 | 58 | [Length of Last Word](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/58_Length%20of%20Last%20Word) | Easy | String |
 | 69 | [Sqrt(x)](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/69_Sqrt(x)) | Easy | Math<br>Binary Search |
+| 80 | [Remove Duplicates from Sorted Array II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/80_Remove%20Duplicates%20from%20Sorted%20Array%20II) | Medium | Array<br>Two Pointers |
 | 88 | [Merge Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/88_Merge%20Sorted%20Array) | Easy | Array<br>Sorting<br>Two Pointers |
 | 125 | [Valid Palindrome](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/125_Valid%20Palindrome) | Easy | String<br>Two Pointers |
 | 141 | [Linked List Cycle](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/141_Linked%20List%20Cycle) | Easy | Hash Table<br>Linked List<br>Two Pointers |
