@@ -27,6 +27,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 242 | [Valid Anagram](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/242_Valid%20Anagram) | Easy | String<br>Sorting<br>Hash Table |
 | 268 | [Missing Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/268_Missing%20Number) | Easy | Array<br>Math<br>Sorting<br>Hash Table<br>Binary Search<br>Bit Manipulation |
 | 290 | [Word Pattern](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/290_Word%20Pattern) | Easy | Hash Table<br>String |
+| 380 | [Insert Delete GetRandom O(1)](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/380_Insert%20Delete%20GetRandom%20O(1)) | Medium | Array<br>Math<br>Design<br>Hash Table<br>Randomized |
 | 383 | [Ransom Note](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/383_Ransom%20Note) | Easy | Hash Table<br>String<br>Counting |
 | 392 | [Is Subsequence](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/392_Is%20Subsequence) | Easy | String<br>Two Pointers<br>Dynamic Programming |
 | 704 | [Binary Search](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/704_Binary%20Search) | Easy | Array<br>Binary Search |
