@@ -24,6 +24,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 217 | [Contains Duplicate](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/217_Contains%20Duplicate) | Easy | Array<br>Sorting<br>Hash Table |
 | 219 | [Contains Duplicate II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/219_Contains%20Duplicate%20II) | Easy | Array<br>Hash Table<br>Sliding Window |
 | 228 | [Summary Ranges](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/228_Summary%20Ranges) | Easy | Array |
+| 238 | [Product of Array Except Self](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/238_Product%20of%20Array%20Except%20Self) | Medium | Array<br>Prefix Sum |
 | 242 | [Valid Anagram](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/242_Valid%20Anagram) | Easy | String<br>Sorting<br>Hash Table |
 | 268 | [Missing Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/268_Missing%20Number) | Easy | Array<br>Math<br>Sorting<br>Hash Table<br>Binary Search<br>Bit Manipulation |
 | 290 | [Word Pattern](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/290_Word%20Pattern) | Easy | Hash Table<br>String |
