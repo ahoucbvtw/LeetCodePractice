@@ -28,7 +28,7 @@ Follow up: Can you solve the problem in `O(1)` extra space complexity? (The outp
 - Prefix Sum
 
 ## My Thinking
-參考了 `Nikhil Lohiae` 以及 `NeetCode` 影片<br>先使用 `Nikhil Lohiae` 思路製作 `238_1.py` 其 `Time complexity & Space complexity = O(n)`<br>後面藉由觀看 `NeetCode` 影片獲得該如何讓 `Space complexity = O(n)` 啟發撰寫 `238_2.py`。
+參考了 `Nikhil Lohiae` 以及 `NeetCode` 影片<br>先使用 `Nikhil Lohiae` 思路製作 `238_1.py` 其 `Time complexity & Space complexity = O(n)`<br>後面藉由觀看 `NeetCode` 影片獲得該如何讓 `Space complexity = O(1)` 啟發撰寫 `238_2.py`。
 
 解題方法:<br>題目要求在陣列內除了自身數值外其餘數值相乘並輸出且 `Time complexity = O(n)` 以及無法使用 `除法` 這2個條件。<br>`(Space complexity = O(1) 是題目額外給的挑戰)`
 
