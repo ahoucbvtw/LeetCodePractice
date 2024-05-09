@@ -7,7 +7,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | :---: | :---: | :---: | :---: |
 | 12 | [Integer to Roman](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/12_Integer%20to%20Roman) | Medium | Math<br>String<br>Hash Table |
 | 13 | [Roman to Integer](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/13_Roman%20to%20Integer) | Easy | Math<br>String<br>Hash Table |
-| 14 | [Longest Common Prefix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/14_Longest%20Common%20Prefix) | Easy | String<br>Trie |
+| 14 | [Longest Common Prefix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/14_Longest%20Common%20Prefix) | Easy | Trie<br>String |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/26_Remove%20Duplicates%20from%20Sorted%20Array) | Easy | Array<br>Two Pointers |
 | 28 | [Find the Index of the First Occurrence in a String](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/28_Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | Easy | String<br>Two Pointers<br>String Matching |
 | 45 | [Jump Game II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/45_Jump%20Game%20II) | Medium | Array<br>Greedy<br>Dynamic Programming |
