@@ -63,7 +63,7 @@ output = left x right
 >
 > `Time complexity & Space complexity = O(n)`
 > 
-> [![Product of Array Except Self (LeetCode 238) | Full solution with visuals | Study Algorithms](https://i3.ytimg.com/vi/G9zKmhybKBM/maxresdefault.jpg)](https://www.youtube.com/watch?v=G9zKmhybKBM)
+> [![Product of Array Except Self (LeetCode 238) | Full solution with visuals | Study Algorithms](https://img.youtube.com/vi/G9zKmhybKBM/hqdefault.jpg)](https://www.youtube.com/watch?v=G9zKmhybKBM)
 
 ---
 
