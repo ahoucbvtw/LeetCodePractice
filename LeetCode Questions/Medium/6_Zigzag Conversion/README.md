@@ -90,4 +90,4 @@ Time complexity: O(mn)
 > 因為使用了2個不同長度的 `for迴圈` 進行遍歷，因此為**O(mn)**
 
 Space complexity: O(n)
-> 因為使用了 `for迴圈` 進行字串的輸出，因此為**O(1)**
+> 因為使用了 `for迴圈` 進行字串的輸出，因此為**O(n)**
