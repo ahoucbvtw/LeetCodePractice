@@ -27,6 +27,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 189 | [Rotate Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/189_Rotate%20Array) | Medium | Array<br>Math<br>Two Pointers |
 | 202 | [Happy Number](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/202_Happy%20Number) | Easy | Math<br>Hash Table<br>Two Pointers |
 | 205 | [Isomorphic Strings](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/205_Isomorphic%20Strings) | Easy | String<br>Hash Table |
+| 209 | [Minimum Size Subarray Sum](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/209_Minimum%20Size%20Subarray%20Sum) | Medium | Array<br>Prefix Sum<br>Binary Search<br>Sliding Window |
 | 217 | [Contains Duplicate](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/217_Contains%20Duplicate) | Easy | Array<br>Sorting<br>Hash Table |
 | 219 | [Contains Duplicate II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/219_Contains%20Duplicate%20II) | Easy | Array<br>Hash Table<br>Sliding Window |
 | 228 | [Summary Ranges](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/228_Summary%20Ranges) | Easy | Array |
