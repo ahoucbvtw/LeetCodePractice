@@ -5,6 +5,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 
 | # | Title | Difficulty | Tags |
 | :---: | :---: | :---: | :---: |
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/3_Longest%20Substring%20Without%20Repeating%20Characters) | Medium | String<br>Hash Table<br>Sliding Window |
 | 6 | [Zigzag Conversion](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/6_Zigzag%20Conversion) | Medium | String |
 | 11 | [Container With Most Water](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/11_Container%20With%20Most%20Water) | Medium | Array<br>Greedy<br>Two Pointers |
 | 12 | [Integer to Roman](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/12_Integer%20to%20Roman) | Medium | Math<br>String<br>Hash Table |
