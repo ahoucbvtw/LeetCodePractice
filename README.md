@@ -14,6 +14,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 15 | [3Sum](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/15_3Sum) | Medium | Array<br>Sorting<br>Two Pointers |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/26_Remove%20Duplicates%20from%20Sorted%20Array) | Easy | Array<br>Two Pointers |
 | 28 | [Find the Index of the First Occurrence in a String](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/28_Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | Easy | String<br>Two Pointers<br>String Matching |
+| 36 | [Valid Sudoku](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/36_Valid%20Sudoku) | Medium | Array<br>Matrix<br>Hash Table |
 | 45 | [Jump Game II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/45_Jump%20Game%20II) | Medium | Array<br>Greedy<br>Dynamic Programming |
 | 55 | [Jump Game](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/55_Jump%20Game) | Medium | Array<br>Greedy<br>Dynamic Programming |
 | 58 | [Length of Last Word](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/58_Length%20of%20Last%20Word) | Easy | String |
