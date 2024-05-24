@@ -74,13 +74,17 @@ Follow up:
 至於題目列的4項遊戲規則，可以總結出2項結果：
 1. 原先活(1): 
   - 如果該格子4周8方位有剛好 `2個 or 3個` 是活(1)，此格子下一輪也會是活(1)。
+  
   ![活(1) -> 活(1)](https://github.com/ahoucbvtw/LeetCodePractice/blob/main/LeetCode%20Questions/Medium/289_Game%20of%20Life/pic/1.png?raw=true)
   - 除了上面條件以外，此格子下一輪都是死(0)。
+  
   ![活(1) -> 死(0)](https://github.com/ahoucbvtw/LeetCodePractice/blob/main/LeetCode%20Questions/Medium/289_Game%20of%20Life/pic/2.png?raw=true)
 1. 原先死(0):
   - 如果該格子4周8方位有 `3個` 是活(1)，此格子下一輪便會是活(1)。
+  
   ![死(0) -> 活(1)](https://github.com/ahoucbvtw/LeetCodePractice/blob/main/LeetCode%20Questions/Medium/289_Game%20of%20Life/pic/3.png?raw=true)
   - 除了上面條件以外，此格子下一輪都還是死(0)。
+  
   ![死(0) -> 死(0)](https://github.com/ahoucbvtw/LeetCodePractice/blob/main/LeetCode%20Questions/Medium/289_Game%20of%20Life/pic/4.png?raw=true)
 
 > 參考影片: **By NeetCode**
