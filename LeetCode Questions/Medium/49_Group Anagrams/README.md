@@ -44,7 +44,7 @@ Constraints:
 
 但是 `方法2` 則不需要進行排序，只需要針對陣列中每一個字串的字母數量做統計，因此 `Time complexit = O(mn)`。
 
-而 `O(mn)` 肯定會比 `O(m*nlogn)` 還有優秀，畢竟 `O(m*nlogn)` 他後面還要多乘上一個 `logn`，時間上相對沒有乘肯定來得多。
+而 `O(mn)` 肯定會比 `O(m * nlogn)` 還有優秀，畢竟 `O(m * nlogn)` 他後面還要多乘上一個 `logn`，時間上相對沒有乘肯定來得多。
 
 > 參考影片: **By NeetCode**
 >
