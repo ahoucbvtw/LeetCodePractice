@@ -20,6 +20,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 49 | [Group Anagrams](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/49_Group%20Anagrams) | Medium | Array<br>String<br>Sorting<br>Hash Table |
 | 54 | [Spiral Matrix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/54_Spiral%20Matrix) | Medium | Array<br>Matrix<br>Simulation |
 | 55 | [Jump Game](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/55_Jump%20Game) | Medium | Array<br>Greedy<br>Dynamic Programming |
+| 56 | [Merge Intervals](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/56_Merge%20Intervals) | Medium | Array<br>Sorting |
 | 58 | [Length of Last Word](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/58_Length%20of%20Last%20Word) | Easy | String |
 | 69 | [Sqrt(x)](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/69_Sqrt(x)) | Easy | Math<br>Binary Search |
 | 73 | [Set Matrix Zeroes](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/73_Set%20Matrix%20Zeroes) | Medium | Array<br>Matrix<br>Hash Table |
