@@ -25,6 +25,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 57 | [Insert Interval](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/57_Insert%20Interval) | Medium | Array |
 | 58 | [Length of Last Word](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/58_Length%20of%20Last%20Word) | Easy | String |
 | 69 | [Sqrt(x)](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/69_Sqrt(x)) | Easy | Math<br>Binary Search |
+| 71 | [Simplify Path](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/71_Simplify%20Path) | Medium | Stack<br>String |
 | 73 | [Set Matrix Zeroes](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/73_Set%20Matrix%20Zeroes) | Medium | Array<br>Matrix<br>Hash Table |
 | 80 | [Remove Duplicates from Sorted Array II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/80_Remove%20Duplicates%20from%20Sorted%20Array%20II) | Medium | Array<br>Two Pointers |
 | 88 | [Merge Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/88_Merge%20Sorted%20Array) | Easy | Array<br>Sorting<br>Two Pointers |
