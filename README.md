@@ -48,6 +48,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 380 | [Insert Delete GetRandom O(1)](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/380_Insert%20Delete%20GetRandom%20O(1)) | Medium | Array<br>Math<br>Design<br>Hash Table<br>Randomized |
 | 383 | [Ransom Note](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/383_Ransom%20Note) | Easy | Hash Table<br>String<br>Counting |
 | 392 | [Is Subsequence](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/392_Is%20Subsequence) | Easy | String<br>Two Pointers<br>Dynamic Programming |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/452_Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) | Medium | Array<br>Greedy<br>Sorting |
 | 704 | [Binary Search](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/704_Binary%20Search) | Easy | Array<br>Binary Search |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/1351_Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) | Easy | Array<br>Matrix<br>Binary Search |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/2529_Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) | Easy | Array<br>Counting<br>Binary Search |
