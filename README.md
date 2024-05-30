@@ -12,6 +12,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 13 | [Roman to Integer](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/13_Roman%20to%20Integer) | Easy | Math<br>String<br>Hash Table |
 | 14 | [Longest Common Prefix](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/14_Longest%20Common%20Prefix) | Easy | Trie<br>String |
 | 15 | [3Sum](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/15_3Sum) | Medium | Array<br>Sorting<br>Two Pointers |
+| 20 | [Valid Parentheses](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/20_Valid%20Parentheses) | Easy | Stack<br>String |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/26_Remove%20Duplicates%20from%20Sorted%20Array) | Easy | Array<br>Two Pointers |
 | 28 | [Find the Index of the First Occurrence in a String](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/28_Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | Easy | String<br>Two Pointers<br>String Matching |
 | 36 | [Valid Sudoku](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/36_Valid%20Sudoku) | Medium | Array<br>Matrix<br>Hash Table |
