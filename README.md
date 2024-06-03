@@ -33,6 +33,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 128 | [Longest Consecutive Sequence](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/128_Longest%20Consecutive%20Sequence) | Medium | Array<br>Union Find<br>Hash Table |
 | 134 | [Gas Station](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/134_Gas%20Station) | Medium | Array<br>Greedy |
 | 141 | [Linked List Cycle](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/141_Linked%20List%20Cycle) | Easy | Hash Table<br>Linked List<br>Two Pointers |
+| 150 | [Evaluate Reverse Polish Notation](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/150_Evaluate%20Reverse%20Polish%20Notation) | Medium | Math<br>Array<br>Stack |
 | 151 | [Reverse Words in a String](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/151_Reverse%20Words%20in%20a%20String) | Medium | String<br>Two Pointers |
 | 155 | [Min Stack](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/155_Min%20Stack) | Medium | Stack<br>Design |
 | 167 | [Two Sum II - Input Array Is Sorted](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/167_Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | Medium | Array<br>Two Pointers<br>Binary Search |
