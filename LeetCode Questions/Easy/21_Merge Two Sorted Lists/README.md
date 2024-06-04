@@ -50,6 +50,12 @@ Constraints:
    2. `list1.val >= list2.val`。<br>直接將 `list2` 串在當前空節點的鏈結串列的下一個位置。
 3. 當 `while迴圈` 停止時 = 其中一個鏈結串列當前節點已經是空值。<br>但是還必須防止如果2個鏈結串列長度不一樣長時，此時會導致漏掉另一邊剩餘的節點。<br>因此最後要加入判斷是哪一個提供的鏈結串列當前節點為空，並將另一個剩餘的節點給全部加入空節點的鏈結串列。<br>至於為什麼可以這樣操作的原因在於題目已經明確說明提供的鏈結串列都是已經按照 `升序` 排序，因此剩餘的鏈結串列節點變不需要再進行比對，可以直接加入在空節點的鏈結串列中。
 
+> 參考影片: **By Greg Hogg**
+>
+> `Time complexity = O(n), Space complexity = O(1)`
+> 
+> [![Merge Two Sorted Lists - Leetcode 21 - Linked Lists (Python)](https://img.youtube.com/vi/5Rec4JS9H5o/hqdefault.jpg)](https://www.youtube.com/watch?v=5Rec4JS9H5o)
+
 ### Complexity
 Time complexity: O(n)
 > 因為在進行2個鏈結串列合併時需要進行全部節點的遍歷，但又因為若2個鏈結串列長度不同時，按照寫法只會遍歷完短的，因此為 **O(n)**
