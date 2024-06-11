@@ -27,6 +27,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 56 | [Merge Intervals](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/56_Merge%20Intervals) | Medium | Array<br>Sorting |
 | 57 | [Insert Interval](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/57_Insert%20Interval) | Medium | Array |
 | 58 | [Length of Last Word](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/58_Length%20of%20Last%20Word) | Easy | String |
+| 61 | [Rotate List](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/61_Rotate%20List) | Medium | Linked List<br>Two Pointers |
 | 69 | [Sqrt(x)](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/69_Sqrt(x)) | Easy | Math<br>Binary Search |
 | 71 | [Simplify Path](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/71_Simplify%20Path) | Medium | Stack<br>String |
 | 73 | [Set Matrix Zeroes](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/73_Set%20Matrix%20Zeroes) | Medium | Array<br>Matrix<br>Hash Table |
