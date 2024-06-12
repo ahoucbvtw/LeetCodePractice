@@ -33,6 +33,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 73 | [Set Matrix Zeroes](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/73_Set%20Matrix%20Zeroes) | Medium | Array<br>Matrix<br>Hash Table |
 | 80 | [Remove Duplicates from Sorted Array II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/80_Remove%20Duplicates%20from%20Sorted%20Array%20II) | Medium | Array<br>Two Pointers |
 | 82 | [Remove Duplicates from Sorted List II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/82_Remove%20Duplicates%20from%20Sorted%20List%20II) | Medium | Linked List<br>Two Pointers |
+| 86 | [Partition List](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/86_Partition%20List) | Medium | Linked List<br>Two Pointers |
 | 88 | [Merge Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/88_Merge%20Sorted%20Array) | Easy | Array<br>Sorting<br>Two Pointers |
 | 92 | [Reverse Linked List II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/92_Reverse%20Linked%20List%20II) | Medium | Linked List |
 | 125 | [Valid Palindrome](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/125_Valid%20Palindrome) | Easy | String<br>Two Pointers |
