@@ -36,6 +36,7 @@ Practice LeetCode problems and record my logical thinking and analysis of space 
 | 86 | [Partition List](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/86_Partition%20List) | Medium | Linked List<br>Two Pointers |
 | 88 | [Merge Sorted Array](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/88_Merge%20Sorted%20Array) | Easy | Array<br>Sorting<br>Two Pointers |
 | 92 | [Reverse Linked List II](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/92_Reverse%20Linked%20List%20II) | Medium | Linked List |
+| 112 | [Path Sum](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/112_Path%20Sume) | Easy | Tree<br>Binary Tree<br>Depth-First Search<br>Breadth-First Search |
 | 125 | [Valid Palindrome](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Easy/125_Valid%20Palindrome) | Easy | String<br>Two Pointers |
 | 128 | [Longest Consecutive Sequence](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/128_Longest%20Consecutive%20Sequence) | Medium | Array<br>Union Find<br>Hash Table |
 | 134 | [Gas Station](https://github.com/ahoucbvtw/LeetCodePractice/tree/main/LeetCode%20Questions/Medium/134_Gas%20Station) | Medium | Array<br>Greedy |
